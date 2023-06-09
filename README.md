@@ -1,2 +1,2 @@
 # anotherMission
-Another Mission with Low Emissions is an source for an income for the United States Veterans.
+Another Mission with Low Emissions is a source for an income for the United States Veterans.
